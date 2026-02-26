@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Binance Futures Testnet Trading Bot
 
 ## Setup
@@ -18,3 +19,7 @@ python cli.py --symbol BTCUSDT --side SELL --type LIMIT --quantity 0.01 --price 
 
 ## Logs
 All API requests, responses and errors are logged in bot.log
+=======
+# Binance-Futures-Trading-Bot
+An automated Binance Futures trading bot built in Python using Binance API. Supports market and limit orders with real-time price tracking and risk management.
+>>>>>>> a9d5bdee39e20695ad1f75530a59b10761bf78fa
